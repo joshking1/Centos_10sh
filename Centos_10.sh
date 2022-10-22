@@ -9,3 +9,4 @@ sudo useradd Uganda
 sudo groupadd soccer 
 sudo groupadd ministers 
 sudo ping 
+sudo useradd Kevin
