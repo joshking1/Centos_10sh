@@ -8,3 +8,4 @@ sudo useradd kenyan-devops-group
 sudo useradd Uganda
 sudo groupadd soccer 
 sudo groupadd ministers 
+sudo ping 
