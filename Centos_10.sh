@@ -11,6 +11,8 @@ sudo groupadd ministers
 sudo ping 
 sudo mkdir Caleb 
 sudo useradd Kevin
+sudo useradd elias 
+
 
 
 vi Caleb
