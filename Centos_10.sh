@@ -5,3 +5,4 @@ sudo nproc
 sudo top 
 sudo lsblk 
 sudo useradd kenyan-devops-group  
+sudo useradd Uganda
