@@ -12,7 +12,7 @@ sudo ping
 sudo mkdir Caleb 
 sudo useradd Kevin
 sudo useradd elias 
-
+sudo cat /etc/*release 
 
 
 vi Caleb
