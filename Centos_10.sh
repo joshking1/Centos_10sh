@@ -16,3 +16,4 @@ sudo useradd victoire
 sudo cat /etc/*release 
 sudo useradd caleb
 vi Caleb
+sudo uptime  # used to check the load average of system # - processes currently loading in systm 1, 5, 15 mins
