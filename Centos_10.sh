@@ -14,5 +14,6 @@ sudo useradd Kevin
 sudo useradd elias 
 sudo useradd victoire 
 sudo cat /etc/*release 
-
+sudo useradd lynn
 vi Caleb
+sudo uptime #used to check load average (processes that is loading in your system 1,5 , 25 mins): also how many hours your sys has been 'up'
