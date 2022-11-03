@@ -17,3 +17,5 @@ sudo cat /etc/*release
 sudo useradd caleb
 vi Caleb
 cat /etc/*release
+
+sudo yum install glances
