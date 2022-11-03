@@ -14,5 +14,8 @@ sudo useradd Kevin
 sudo useradd elias 
 sudo useradd victoire 
 sudo cat /etc/*release 
-
+sudo useradd caleb
 vi Caleb
+cat /etc/*release
+
+sudo yum install glances
