@@ -17,3 +17,7 @@ sudo cat /etc/*release
 sudo useradd lynn
 vi Caleb
 sudo uptime #used to check load average (processes that is loading in your system 1,5 , 25 mins): also how many hours your sys has been 'up'
+sudo useradd ahmed
+vi Caleb
+cat/etc/*release
+sudo yum install glances
