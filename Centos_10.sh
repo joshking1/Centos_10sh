@@ -14,5 +14,5 @@ sudo useradd Kevin
 sudo useradd elias 
 sudo useradd victoire 
 sudo cat /etc/*release 
-
+sudo useradd caleb
 vi Caleb
